@@ -1,0 +1,1 @@
+The pyc files from deploy, write, read scripts will be loaded here by "brownie run" commands
