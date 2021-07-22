@@ -1,0 +1,7 @@
+dotenv: .env # Runs .env file adding Env. Vars.
+networks:
+  default: kovan
+  kovan:
+    link_token: "0xa36085F69e2889c224210F603D836748e7dC0088" # This is a constant
+wallets:
+  from_key: "5a9737460bd7f560b3db9b39695b80864d7ab14788440269d4e782716b6990ba"
